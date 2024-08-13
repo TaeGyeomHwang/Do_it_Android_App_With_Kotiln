@@ -6,4 +6,7 @@
     </style>
 
     <style name="Theme.AndroidLab" parent="Base.Theme.AndroidLab" />
+    <style name="ToolbarIconColor" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">#FFFFFF</item>
+    </style>
 </resources>
