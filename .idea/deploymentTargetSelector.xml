@@ -20,10 +20,7 @@
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="ch12_material">
-        <option name="selectionMode" value="DROPDOWN" />
-      </SelectionState>
-      <SelectionState runConfigName="ch13_activity">
+      <SelectionState runConfigName="ch14_receiver">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
